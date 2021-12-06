@@ -1,0 +1,25 @@
+body {
+    background-color: papayawhip;  
+  }
+  hr {
+      border-style: none;
+      border-top-style: dotted;
+      width: 4%;
+      border-color: rgb(179, 166, 142);
+      border-width: 4px;
+  }
+   h3 {
+      color:  #2d7575;
+      font-family: cursive;
+  }
+  h1{
+    color:  #2d7575;
+  }
+  img{
+    border-radius: 100%;
+    
+      width: 70%;
+    }
+    
+
+  
